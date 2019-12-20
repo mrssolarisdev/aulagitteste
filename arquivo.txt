@@ -1,5 +1,0 @@
-This is a course for Git.
-
-It is aimed to make an individual proficient and expert in Git.
-
-The basic knowledge of Git is not required to start this course.
